@@ -1,0 +1,25 @@
+Station,Line,Train Time,Monthly Cost
+Union,Raritan,39,$210
+Roselle Park,Raritan,43,$227
+Cranford,Raritan,48,$254
+Garwood,Raritan,52,$270
+Westfield,Raritan,53,$270
+Fanwood,Raritan,58,$298
+Netherwood,Raritan,62,$310
+Plainfield,Raritan,65,$336
+Dunellen,Raritan,70,$353
+Linden,Central,40,$254
+Rahway,Central,44,$270
+Metropark,Central,50,$310
+Metuchen,Central,55,$336
+Edison,Central,60,$380
+New Brunswsick,Central,65,$393
+Woodbridge,Coast,53,$310
+Maplewood,Gladstone,40,$227
+Millburn,Gladstone,44,$254
+Short Hills,Gladstone,45,$254
+Summit,Gladstone,45,$298
+Murray Hill,Gladstone,60,$310
+Berkeley Heights,Gladstone,64,$336
+Gilette,Gladstone,67,$353
+Stirling,Gladstone,70,$393
